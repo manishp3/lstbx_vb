@@ -1,0 +1,10 @@
+D:\vb_net\lstboxalpha\lstboxalpha\bin\Debug\lstboxalpha.exe
+D:\vb_net\lstboxalpha\lstboxalpha\bin\Debug\lstboxalpha.pdb
+D:\vb_net\lstboxalpha\lstboxalpha\bin\Debug\lstboxalpha.xml
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\ResolveAssemblyReference.cache
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\lstboxalpha.Resources.resources
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\lstboxalpha.vbproj.GenerateResource.Cache
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\lstboxalpha.exe
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\lstboxalpha.xml
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\lstboxalpha.pdb
+D:\vb_net\lstboxalpha\lstboxalpha\obj\Debug\lstboxalpha.ListBox.resources
